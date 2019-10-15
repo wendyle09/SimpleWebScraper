@@ -5,11 +5,11 @@ The user would like to scrape links and their associated descriptions from Craig
 
 Input:
 * City
-* Category
+* Category (in 3-letter abbreviation)
 
 Output:
-* Text of description
-* URL
+* Item description
+* Item URL
 
 
 
