@@ -4,12 +4,12 @@
 The user would like to scrape links and their associated descriptions from Craigslist's based on the category and city specified by the user.
 
 Input:
-City
-Category
+* City
+* Category
 
 Output:
-Text of description
-URL
+* Text of description
+* URL
 
 
 
