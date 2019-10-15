@@ -5,13 +5,16 @@ The user would like to scrape links and their associated descriptions from Craig
 
 Input:
 * City
-* Category (in 3-letter abbreviation)
+* Category abbreviation
 
 Output:
 * Item description
 * Item URL
 
-
+### Assumptions
+1. User knows the abbreviation for the category they would like to scrape, such as "ata" for antiques.
+2. User does not misspell city name.
+3. Craigslist listing pages follow this format: http://CITY.craigslist.org/search/CATEGORY
 
 ## Algorithm
 ```
